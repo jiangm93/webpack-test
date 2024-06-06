@@ -1,0 +1,1 @@
+(()=>{"use strict";var o=3;console.log(o);const c=++o;console.log(www.xxxx.com)((function(){console.log(c),console.log(23)}))()})();
